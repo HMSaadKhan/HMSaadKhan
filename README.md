@@ -16,16 +16,6 @@ Welcome to my GitHub profile! I'm a passionate MERN Stack Developer dedicated to
 - Innovative web development tools and libraries
 - Any projects that challenge and enhance my skills
 
-### 🤔 I’m looking for help with:
-- Optimizing application performance and scalability
-- Learning best practices for **CI/CD pipelines**
-- Mastering cloud infrastructure and **DevOps** practices
-
-### 💬 Ask me about:
-- Anything related to **MERN stack development**
-- Building responsive and accessible web applications
-- Managing and deploying projects on **GitHub** and **Heroku**
-
 ### 📫 How to reach me:
 - **Email**: h.saadkhan501@gmail.com
 - **LinkedIn**: [Saad Khan](https://www.linkedin.com/in/hsaad-khan/)
