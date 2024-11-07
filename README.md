@@ -4,8 +4,6 @@ Welcome to my GitHub profile! I'm a passionate MERN Stack Developer dedicated to
   alt="HMSaadKhan" /> 
   </p>
 
-<br>
-
 <p><img align="right" src="https://github.com/HMSaadKhan/HMSaadKhan/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
@@ -33,8 +31,11 @@ Welcome to my GitHub profile! I'm a passionate MERN Stack Developer dedicated to
     src="https://github-readme-stats.vercel.app/api/top-langs?username=HMSaadKhan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="HMSaadKhan" 
     bg_color=#808080/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HMSaadKhan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="HMSaadKhan" /></p>
 
-<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HMSaadKhan&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="HMSaadKhan" /></p>
+   
 
 ### ⚡ Fun fact:
 I'm a huge fan of **open-source** and love contributing to the developer community. When I'm not coding, you can find me exploring new technologies, playing video games, or enjoying a good cup of coffee.
